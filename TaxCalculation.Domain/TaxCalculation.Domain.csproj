@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Tax\" />
+    <None Remove="Tax\QueriesHandler\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tax\" />
+    <Folder Include="Tax\QueriesHandler\" />
+  </ItemGroup>
+</Project>

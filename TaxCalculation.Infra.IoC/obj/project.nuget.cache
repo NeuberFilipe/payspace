@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ME51pfOJza/bqUr5y+rgJVatNiirGCYYkXu9ErqK+mQaEEloAg0/1ogoGrxDMe8aaGVf+jSCDFktWvmX1a6qCg==",
+  "success": true,
+  "projectFilePath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/TaxCalculation.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "/Users/neubercoelho/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

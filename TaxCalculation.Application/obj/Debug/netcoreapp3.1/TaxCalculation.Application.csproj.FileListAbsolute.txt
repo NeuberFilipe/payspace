@@ -1,0 +1,12 @@
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/bin/Debug/netcoreapp3.1/TaxCalculation.Application.deps.json
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/bin/Debug/netcoreapp3.1/TaxCalculation.Application.dll
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/bin/Debug/netcoreapp3.1/TaxCalculation.Application.pdb
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/bin/Debug/netcoreapp3.1/TaxCalculation.Domain.dll
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/bin/Debug/netcoreapp3.1/TaxCalculation.Domain.pdb
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/obj/Debug/netcoreapp3.1/TaxCalculation.Application.csproj.AssemblyReference.cache
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/obj/Debug/netcoreapp3.1/TaxCalculation.Application.AssemblyInfoInputs.cache
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/obj/Debug/netcoreapp3.1/TaxCalculation.Application.AssemblyInfo.cs
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/obj/Debug/netcoreapp3.1/TaxCalculation.Application.csproj.CoreCompileInputs.cache
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/obj/Debug/netcoreapp3.1/TaxCalculation.Application.csproj.CopyComplete
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/obj/Debug/netcoreapp3.1/TaxCalculation.Application.dll
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/obj/Debug/netcoreapp3.1/TaxCalculation.Application.pdb

@@ -1,0 +1,14 @@
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/bin/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.deps.json
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/bin/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.dll
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/bin/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.pdb
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/bin/Debug/netcoreapp3.1/TaxCalculation.Application.dll
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/bin/Debug/netcoreapp3.1/TaxCalculation.Domain.dll
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/bin/Debug/netcoreapp3.1/TaxCalculation.Application.pdb
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/bin/Debug/netcoreapp3.1/TaxCalculation.Domain.pdb
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/obj/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.csproj.AssemblyReference.cache
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/obj/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.AssemblyInfoInputs.cache
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/obj/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.AssemblyInfo.cs
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/obj/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.csproj.CoreCompileInputs.cache
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/obj/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.csproj.CopyComplete
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/obj/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.dll
+/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/obj/Debug/netcoreapp3.1/TaxCalculation.Infra.IoC.pdb

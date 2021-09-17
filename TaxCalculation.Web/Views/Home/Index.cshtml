@@ -1,0 +1,107 @@
+﻿@{
+    var taxs = (List<TaxCalculation.Web.Models.Tax.GetTaxViewModelOutput>)ViewData["GetTaxViewModelOutput"];
+}
+@model List<TaxCalculation.Web.Models.Tax.GetTaxViewModelOutput>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <div class="text-center">
+    </div>
+    <div class="card" style="text-align: center;">
+        <h1 class="display-10">Each postal code is linked to a type of Tax calculation</h1>
+    </div>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().PostalCode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.First().TaxCalculationType)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in taxs)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PostalCode)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TaxCalculationType)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="card" style="text-align: center;">
+        <h1 class="display-12">Calculate individual tax</h1>
+    </div>
+    <br />
+
+    <form >
+        <div class="form-group">
+            <label class="col-md-3 col-form-label">Postal Code</label>
+            <input type="text" autocomplete="off"  id="PostalCode" class="form-control">
+
+            <label class="col-md-3 col-form-label">Annual Income</label>
+            <input type="number" autocomplete="off"  id="AnnualIncome" class="form-control">
+        </div>
+        <div class="form-group justify-content-between">
+            <button id="btnSubmit"  class="btn btn-primary save-button">Calculate</button>
+        </div>
+    </form>
+
+    <div id="divPrincipal">
+        <input type="text" id="txtMessage" />
+    </div>
+
+</body>
+
+</html>
+@section Scripts
+{
+    <script>$(document).ready(function () {
+    $('#btnSubmit').on('click', function () {
+
+        var po = $('#PostalCode').val();
+        var an = $('#AnnualIncome').val()
+        var getTaxViewModelInput = {
+            postalCode: po,
+            annualIncome: an
+        };
+                console.log(po)
+                 console.log(an)
+                $.ajax({
+                    type: "GET",
+                    url: "/Home/JqAJAX",
+                    data: getTaxViewModelInput,
+                    async: false,
+                    dataType: "html",
+                    contentType: 'application/x-www-form-urlencoded',
+                    success: function (response) {
+                       $("#txtMessage").val(response);
+                       
+                    },
+                    error: function () {
+                        console.log("Error occured!!")
+                    }
+                });
+            });
+        });</script>
+}
+

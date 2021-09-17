@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TaxCalculation.Api</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:TaxCalculation.Api.Controllers.TaxController.GetCalculation(System.String,System.Decimal,TaxCalculation.Domain.Tax.QueriesHandler.ITaxCalculationQueryHandler)" -->
+        <!-- Badly formed XML comment ignored for member "M:TaxCalculation.Api.Controllers.TaxController.Get(System.String)" -->
+        <!-- Badly formed XML comment ignored for member "M:TaxCalculation.Api.Controllers.TaxController.Post" -->
+    </members>
+</doc>

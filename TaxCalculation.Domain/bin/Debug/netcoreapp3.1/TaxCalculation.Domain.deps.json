@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TaxCalculation.Domain/1.0.0": {
+        "runtime": {
+          "TaxCalculation.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaxCalculation.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
