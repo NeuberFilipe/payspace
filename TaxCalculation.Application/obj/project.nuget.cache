@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VzBTKNOzBqmI3VFNSPYaAjBlkCComqFO+ain5Q+9qPXQARcWuMscv0Ws/GcpKEJyrfnYDfq49912mQYLD+TUlA==",
+  "dgSpecHash": "hxyOiqAz3W0IOksRO5NalxkpR3xIV9isSlhKhYd7CGmkf5twGAdw1bfSSh8EFtkxqOernDWjsInh3xjy+CTM+w==",
   "success": true,
-  "projectFilePath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj",
+  "projectFilePath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

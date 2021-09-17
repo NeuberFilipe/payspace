@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1VtB0JTG/g9twjgQ4ui6JSjumz/zT/CVgmMsb4u09gLV9XgxMQj/ZSbA2uL9Tqyv7bO6+i4I8MyXIOevdgk0MA==",
+  "dgSpecHash": "xd15CpwnJQBqcWAnNoJ3osOUd8P6d+qnFia9TK9qP56wQnRqSMg8/0Mw5ccV7tUkm4zgKovWXPuWw4HMMelyDQ==",
   "success": true,
-  "projectFilePath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Web/TaxCalculation.Web.csproj",
+  "projectFilePath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Web/TaxCalculation.Web.csproj",
   "expectedPackageFiles": [
     "/Users/neubercoelho/.nuget/packages/antlr/3.4.1.9004/antlr.3.4.1.9004.nupkg.sha512",
     "/Users/neubercoelho/.nuget/packages/jquery/1.8.0/jquery.1.8.0.nupkg.sha512",

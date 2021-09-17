@@ -1,0 +1,76 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxCalculation.Web/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="TaxCalculation.Api/Configurations/Extensions/SwaggerExtensions.cs" Line="44" Column="1" />
+      <File FileName="TaxCalculation.Api/Configurations/Extensions/AssemblyExtensions.cs" />
+      <File FileName="TaxCalculation.Api/Filters/ApiAuthorizationFilter.cs" />
+      <File FileName="TaxCalculation.Api/Startup.cs" />
+      <File FileName="TaxCalculation.Api/Configurations/Extensions/CorsExtensions.cs" />
+      <File FileName="TaxCalculation.Api/Configurations/Extensions/GlobalizationExtensions.cs" />
+      <File FileName="TaxCalculation.Api/Configurations/Extensions/CustomRouteDataRequestCultureProvider.cs" />
+      <File FileName="TaxCalculation.Api/Middlewares/ExceptionMiddleware.cs" />
+      <File FileName="TaxCalculation.Api/Middlewares/ResultErrorViewModelOutput.cs" />
+      <File FileName="TaxCalculation.Api/Configurations/Extensions/IocExtensions.cs" />
+      <File FileName="TaxCalculation.Api/Controllers/ApiBaseController.cs" />
+      <File FileName="TaxCalculation.Api/Controllers/TaxController.cs" />
+      <File FileName="TaxCalculation.Api/Models/Tax/GetTaxViewModelOutput.cs" />
+      <File FileName="TaxCalculation.Api/Program.cs" />
+      <File FileName="TaxCalculation.Api/TaxCalculation.Api.xml" />
+      <File FileName="TaxCalculation.Api/Cache/CacheKeys.cs" />
+      <File FileName="TaxCalculation.Api/Controllers/TaxController.Calculation.cs" />
+      <File FileName="TaxCalculation.Application/Tax/Queries/TaxCalculationQueryHandler.cs" Line="10" Column="45" />
+      <File FileName="TaxCalculation.Domain/Tax/QueriesHandler/ITaxCalculationQueryHandler.cs" Line="6" Column="16" />
+      <File FileName="TaxCalculation.Infra.IoC/IocExtensions.cs" />
+      <File FileName="TaxCalculation.Api/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+      <File FileName="TaxCalculation.Web/Models/Tax/GetTaxViewModelOutput.cs" Line="4" Column="40" />
+      <File FileName="TaxCalculation.Web/Extensions/IocExtensions.cs" />
+      <File FileName="TaxCalculation.Web/Startup.cs" Line="13" Column="11" />
+      <File FileName="TaxCalculation.Web/Configurations/CacheKeys.cs" />
+      <File FileName="TaxCalculation.Web/Controllers/HomeController.cs" Line="57" Column="1" />
+      <File FileName="TaxCalculation.Web/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="TaxCalculation.Web/Cache/MockNewTax.cs" />
+      <File FileName="TaxCalculation.Api/Cache/MockNewTax.cs" />
+      <File FileName="TaxCalculation.Web/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="TaxCalculation.Web/Views/_ViewImports.cshtml" Line="1" Column="8" />
+      <File FileName="TaxCalculation.Web/wwwroot/js/site.js" />
+      <File FileName="TaxCalculation.Web/Program.cs" Line="10" Column="11" />
+      <File FileName="TaxCalculation.Web/wwwroot/lib/jquery/dist/jquery.js" />
+      <File FileName="TaxCalculation.Web/Views/Home/Index.cshtml" Line="92" Column="47" />
+      <File FileName="TaxCalculation.Application/Tax/TaxCalculationPattern.cs" />
+      <File FileName="TaxCalculation.Web/Views/Shared/_Layout.cshtml" Line="37" Column="35" />
+      <File FileName="TaxCalculation.Tests.UnitTests/TaxHandelTests.cs" Line="27" Column="12" />
+      <File FileName="TaxCalculation.Web/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="TaxCalculation.Web/Models/Tax/GetTaxViewModelInput.cs" Line="4" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaxCalculations" expanded="True">
+            <Node name="Application" expanded="True" />
+            <Node name="Domain" expanded="True" />
+            <Node name="Presentations" expanded="True" />
+            <Node name="Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TaxCalculation.Tests.UnitTests/TaxCalculation.Tests.UnitTests.csproj</String>
+    <String>TaxCalculation.Web/TaxCalculation.Web.csproj</String>
+    <String>TaxCalculation.Infra.IoC/TaxCalculation.Infra.IoC.csproj</String>
+    <String>TaxCalculation.Application/TaxCalculation.Application.csproj</String>
+    <String>TaxCalculation.Domain/TaxCalculation.Domain.csproj</String>
+    <String>TaxCalculation.Api/TaxCalculation.Api.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Api/Controllers/TaxCalculationPatternInput.cs" relfile="TaxCalculation.Api/Controllers/TaxCalculationPatternInput.cs" line="10" column="1" />
+      <Breakpoint file="/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Api/Controllers/TaxCalculationPatternInput.cs" relfile="TaxCalculation.Api/Controllers/TaxCalculationPatternInput.cs" line="43" column="1" />
+      <Breakpoint file="/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Api/Controllers/TaxCalculationPatternInput.cs" relfile="TaxCalculation.Api/Controllers/TaxCalculationPatternInput.cs" line="54" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

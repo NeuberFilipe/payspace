@@ -8654,11 +8654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Api/TaxCalculation.Api.csproj",
+      "projectUniqueName": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Api/TaxCalculation.Api.csproj",
       "projectName": "TaxCalculation.Api",
-      "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Api/TaxCalculation.Api.csproj",
+      "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Api/TaxCalculation.Api.csproj",
       "packagesPath": "/Users/neubercoelho/.nuget/packages/",
-      "outputPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Api/obj/",
+      "outputPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -8676,11 +8676,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj": {
-              "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj"
+            "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj": {
+              "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj"
             },
-            "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/TaxCalculation.Infra.IoC.csproj": {
-              "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Infra.IoC/TaxCalculation.Infra.IoC.csproj"
+            "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Infra.IoC/TaxCalculation.Infra.IoC.csproj": {
+              "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Infra.IoC/TaxCalculation.Infra.IoC.csproj"
             }
           }
         }

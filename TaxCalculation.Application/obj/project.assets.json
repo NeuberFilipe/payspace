@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj",
+      "projectUniqueName": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj",
       "projectName": "TaxCalculation.Application",
-      "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj",
+      "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Application/TaxCalculation.Application.csproj",
       "packagesPath": "/Users/neubercoelho/.nuget/packages/",
-      "outputPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Application/obj/",
+      "outputPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Application/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -55,8 +55,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Domain/TaxCalculation.Domain.csproj": {
-              "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculations/TaxCalculation.Domain/TaxCalculation.Domain.csproj"
+            "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Domain/TaxCalculation.Domain.csproj": {
+              "projectPath": "/Users/neubercoelho/Projects/TaxCalculations/TaxCalculation.Domain/TaxCalculation.Domain.csproj"
             }
           }
         }
