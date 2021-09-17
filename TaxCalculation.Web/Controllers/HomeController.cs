@@ -46,7 +46,7 @@ namespace TaxCalculation.Web.Controllers
         }
 
         [HttpGet]
-        public ActionResult JqAJAX(GetTaxViewModelInput getTaxInput, [FromServices] ITaxCalculationQueryHandler _taxCalculationQueryHandler)
+        public ActionResult GetTax(GetTaxViewModelInput getTaxInput, [FromServices] ITaxCalculationQueryHandler _taxCalculationQueryHandler)
         {
             if (!string.IsNullOrEmpty(getTaxInput.PostalCode) && getTaxInput.AnnualIncome != null)
                 {
